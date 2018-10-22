@@ -1,0 +1,16 @@
+{
+  "name": "File",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d upload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Dhermie.github.io/workfile/upload/index.html",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
