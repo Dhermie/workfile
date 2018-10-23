@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://Dhermie.github.io/workfile/index.html",
+  "homepage":"https://Dhermie.github.io/workfile",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
